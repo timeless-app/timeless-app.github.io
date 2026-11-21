@@ -20,7 +20,7 @@ const CONFIG = {
   support: "mailto:SUPPORT_EMAIL_HERE",            // e.g. "mailto:help@yourdomain" — use a support-only address
 
   // Black Friday. Before "from": a teaser bar. From "from" to "to": sale prices + code added to checkout. After: nothing.
-  deal: { on: true, code: "BLACKFRIDAY26", from: "2026-11-19", to: "2026-12-15",
+  deal: { on: true, code: "BLACKFRIDAY26", from: "2026-11-19", to: "2026-11-30",
           percent: 30, prices: { individual: "$20.30", team: "$55.30" } }
 };
 /* ========================================================================================================= */
