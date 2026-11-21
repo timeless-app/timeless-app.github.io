@@ -3,13 +3,13 @@
 const CONFIG = {
   // Windows installer, kept in this website's downloads/ folder. Always replace it with exactly this file name.
   download: "downloads/Timeless-Setup.exe",
-  version: "2.3.0",
+  version: "2.3.1",
 
   // Freemius checkout links (Freemius dashboard → Plans → "Get Checkout").
   checkout: {
-    individual: "https://checkout.freemius.com/app/PRODUCT_ID/plan/INDIVIDUAL_PLAN_ID/",
-    team:       "https://checkout.freemius.com/app/PRODUCT_ID/plan/TEAM_PLAN_ID/",
-    pass:       "https://checkout.freemius.com/app/PRODUCT_ID/plan/PASS_PLAN_ID/"
+    individual: "https://checkout.freemius.com/app/45483/plan/80112/licenses/1/",
+    team:       "https://checkout.freemius.com/app/45483/plan/80112/licenses/3/",
+    pass:       "https://checkout.freemius.com/app/45483/plan/80537/"
   },
   // Prices people pay now.
   prices: { individual: "$29", team: "$79", pass: "$9" },
